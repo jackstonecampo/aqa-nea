@@ -1,2 +1,3 @@
 Exports/
 __pycache__/
+*.db
